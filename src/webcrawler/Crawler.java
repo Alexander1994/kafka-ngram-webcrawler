@@ -1,4 +1,4 @@
-package com.company;
+package webcrawler;
 
 import java.util.HashSet;
 import java.util.LinkedList;

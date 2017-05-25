@@ -1,4 +1,4 @@
-package com.company;
+package webcrawler;
 
 public class Main {
 
